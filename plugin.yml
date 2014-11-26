@@ -1,0 +1,6 @@
+name: AnimationPlugin
+author: CyberProgrammer (stoffe19)
+version: 0.1
+main: de.CyberProgrammer.AnimationPlugin.Main.MainClass
+commands:
+  
